@@ -119,7 +119,7 @@ async def main(username_type):
         await asyncio.gather(*tasks)
 
 # Get user inputs
-token = "7383677269:AAEgeqyqUIuOKTEguvChSwz6O6N9GsCTOC0"
+token = "7904586048:AAFVPi_uKsHyl96xPvV80mxRfkBEhZyjCrM"
 telegram_user_id = "7606711394"
 
 # Display menu for username type
